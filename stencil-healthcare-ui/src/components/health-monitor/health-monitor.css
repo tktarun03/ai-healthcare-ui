@@ -1,0 +1,16 @@
+.health-box {
+  padding: 15px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #d32f2f, #b71c1c);
+  color: white;
+  text-align: center;
+}
+button {
+  background: white;
+  color: black;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
